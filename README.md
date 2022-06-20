@@ -186,4 +186,4 @@ El uso de agentes y tablas al mismo tiempo sería un reto que habría que afront
 
 Se ha modificado la librería original y ahora puede hacer una evaluación de C4.5 mediante agentes. Se añadirá al proyecto como ID3_C45_modified.nls y ID3_C45_tablas.nls será el que estaremos haciendo con tablas.
 
-El repositorio inicial se encuentra en http://www.cs.us.es/~fsancho/?p=inteligencia-artificial-2019-20
+El repositorio inicial se encuentra en https://github.com/fsancho/IA
